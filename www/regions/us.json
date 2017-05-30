@@ -1,0 +1,42 @@
+{
+	"title": {
+		"releaseText": "AUGUST 12"
+	},
+	"loading": {
+		"text": "WAITING FOR ELLIOT</br />TO FIND HIS HIDING SPOT..."
+	},
+	"timer": {
+		"levelText": "LEVEL",
+		"timerText": "TIME REMAINING"
+	},
+	"directions": {
+		"title": "FIND ELLIOT!",
+		"text": "<strong>MOVE</strong> THE SLIDER BELOW LEFT AND RIGHT<br /><strong>CLICK</strong> TO REVEAL HIS HIDing PLACE"
+	},
+	"watchTrailerButton": {
+		"text": "<em>WATCH</em> TRAILER",
+		"link": "https://www.youtube.com/watch?v=fPOamb6d_20"
+	},
+	"visitSiteButton": {
+		"text": "<em>VISIT</em> SITE",
+		"link": "http://movies.disney.com/petes-dragon-2016"
+	},
+	"socialLinks": {
+		"facebook": "https://www.facebook.com/DisneyPetesDragon",
+		"twitter": "https://twitter.com/disneypetes",
+		"instagram": "https://www.instagram.com/disneypetesdragon/"
+	},
+	"gameOver": {
+		"text": "TIME'S UP",
+		"button": "TRY AGAIN"
+	},
+	"scoreBoard": {
+		"text": "YOU FOUND ELLIOT IN",
+		"shareTextTop": "SHARE YOUR TIME",
+		"shareTextBottom": "AND INVITE YOUR FRIENDS \n TO PLAY",
+		"previousText": "REPLAY",
+		"continueText": "CONTINUE TO",
+		"secondsText": "SECONDS!",
+		"socialText": "I FOUND ELLIOT IN"
+	}
+}

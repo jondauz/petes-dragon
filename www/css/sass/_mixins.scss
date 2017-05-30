@@ -1,0 +1,49 @@
+$mediumWidth : 640px;
+$largeWidth: 768px;
+$xlargeWidth: 1024px;
+$xxlargeWidth: 1600px;
+
+@mixin medium {
+  @media (min-width: #{$mediumWidth}) {
+    @content;
+  }
+}
+
+@mixin large {
+  @media (min-width: #{$largeWidth}) {
+    @content;
+  }
+}
+
+@mixin xlarge {
+  @media (min-width: #{$xlargeWidth}) {
+    @content;
+  }
+}
+
+
+@mixin xxlarge {
+  @media (min-width: #{$xxlargeWidth}) {
+    @content;
+  }
+}
+
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+@mixin font {
+  font-family: "trajan-pro-3",sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@mixin font-bold {
+  font-family: "trajan-pro-3",sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
